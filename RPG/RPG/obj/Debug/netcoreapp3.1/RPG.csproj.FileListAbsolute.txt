@@ -1,0 +1,13 @@
+E:\ITM225\RPGGame\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+E:\ITM225\RPGGame\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+E:\ITM225\RPGGame\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+E:\ITM225\RPGGame\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+E:\ITM225\RPGGame\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+E:\ITM225\RPGGame\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+E:\ITM225\RPGGame\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+E:\ITM225\RPGGame\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+E:\ITM225\RPGGame\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+E:\ITM225\RPGGame\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+E:\ITM225\RPGGame\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+E:\ITM225\RPGGame\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+E:\ITM225\RPGGame\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
